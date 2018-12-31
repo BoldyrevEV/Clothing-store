@@ -1,0 +1,69 @@
+{
+  "amount": 70,
+  "countGoods": 2,
+  "contents": [
+    {
+      "id_product": 108,
+      "product_name": "Black jacket",
+      "price": 50,
+      "quantity": 1,
+      "src": "img/Products/Product1.jpg"
+    },
+    {
+      "id_product": 109,
+      "product_name": "Brown jacket",
+      "price": 97,
+      "quantity": 1,
+      "src": "img/Products/Product2.jpg"
+    },
+    {
+      "id_product": 110,
+      "product_name": "Blue jacket",
+      "price": 65,
+      "quantity": 1,
+      "src": "img/Products/Product3.jpg"
+    },
+    {
+      "id_product": 111,
+      "product_name": "Sand t-shirt",
+      "price": 32,
+      "quantity": 1,
+      "src": "img/Products/Product4.jpg"
+    },
+    {
+      "id_product": 112,
+      "product_name": "Striped jacket with a hood",
+      "price": 45,
+      "quantity": 1,
+      "src": "img/Products/Product5.jpg"
+    },
+    {
+      "id_product": 113,
+      "product_name": "White and blue jacket",
+      "price": 47,
+      "quantity": 1,
+      "src": "img/Products/Product6.jpg"
+    },
+    {
+      "id_product": 114,
+      "product_name": "Blue suit",
+      "price": 52,
+      "quantity": 1,
+      "src": "img/Products/Product7.jpg"
+    },
+    {
+      "id_product": 115,
+      "product_name": "Brown windbreaker",
+      "price": 61,
+      "quantity": 1,
+      "src": "img/Products/Product8.jpg"
+    },
+    {
+      "id_product": 116,
+      "product_name": "Blue t-shirt",
+      "price": 29,
+      "quantity": 1,
+      "src": "img/Products/Product9.jpg"
+    }
+  ]
+}

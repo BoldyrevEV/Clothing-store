@@ -1,0 +1,62 @@
+{
+  "amount": 341,
+  "countGoods": 8,
+  "contents": [
+    {
+      "id_product": 100,
+      "product_name": "T-shirt with print",
+      "price": 32,
+      "quantity": 1,
+      "src": "img/Items/Items1.jpg"
+    },
+    {
+      "id_product": 101,
+      "product_name": "Red  blouse",
+      "price": 38,
+      "quantity": 1,
+      "src": "img/Items/Items2.jpg"
+    },
+    {
+      "id_product": 102,
+      "product_name": "Blue jacket",
+      "price": 65,
+      "quantity": 1,
+      "src": "img/Items/Items3.jpg"
+    },
+    {
+      "id_product": 103,
+      "product_name": "Floral blouse",
+      "price": 36,
+      "quantity": 1,
+      "src": "img/Items/Items4.jpg"
+    },
+    {
+      "id_product": 104,
+      "product_name": "Striped blouse",
+      "price": 34,
+      "quantity": 1,
+      "src": "img/Items/Items5.jpg"
+    },
+    {
+      "id_product": 105,
+      "product_name": "Grey jacket",
+      "price": 50,
+      "quantity": 1,
+      "src": "img/Items/Items6.jpg"
+    },
+    {
+      "id_product": 106,
+      "product_name": "Breeches",
+      "price": 41,
+      "quantity": 1,
+      "src": "img/Items/Items7.jpg"
+    },
+    {
+      "id_product": 107,
+      "product_name": "Striped jacket with a hood",
+      "price": 45,
+      "quantity": 1,
+      "src": "img/Items/Items8.jpg"
+    }
+  ]
+}

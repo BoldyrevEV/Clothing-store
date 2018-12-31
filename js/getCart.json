@@ -1,0 +1,24 @@
+{
+  "amount": 70,
+  "countGoods": 2,
+  "contents": [
+    {
+      "id_product": 100,
+      "product_name": "T-shirt with print",
+      "price": 32,
+      "quantity": 1,
+      "src": "img/Items/Items1.jpg",
+      "color": "White",
+      "size": "XII"
+    },
+    {
+      "id_product": 101,
+      "product_name": "Red  blouse",
+      "price": 38,
+      "quantity": 1,
+      "src": "img/Items/Items2.jpg",
+      "color": "Red",
+      "size": "M"
+    }
+  ]
+}

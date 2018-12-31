@@ -1,0 +1,4 @@
+[
+  {"id": 1, "author": "Ann", "text": "Good", "isApproved": true},
+  {"id": 2, "author": "Peter", "text": "Good clothes", "isApproved": true}
+]
